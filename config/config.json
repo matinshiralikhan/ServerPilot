@@ -1,0 +1,8 @@
+{
+    "servers": [
+        "ssh.matinshiralikhan.ir:22",
+        "172.86.66.92:1919"
+    ],
+    "protocol": "ssh",
+    "log_file": "/var/log/serverpilot.log"
+}
